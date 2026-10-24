@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm Lakshya, a Computer Science and Engineering student at NIT Agartala, India.
+I'm Lakshya, a Computer Science and Engineering student at NIT (AGT), India.
 
 I'm into software development, problem-solving, Linux, and understanding how things work under the hood.
 
