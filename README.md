@@ -1,4 +1,4 @@
-# Hey there!
+# Hello WoRld
 
 I'm Lakshya, a Computer Science and Engineering student at NIT (AGT), India.
 
