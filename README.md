@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey there!
 
-<!--
-**lakshyadeep-glitch/lakshyadeep-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lakshya, a Computer Science and Engineering student at NIT Agartala, India.
 
-Here are some ideas to get you started:
+I'm into software development, problem-solving, Linux, and understanding how things work under the hood.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently working on personal coding projects.
+- Learning Python, C++, and Data Structures & Algorithms.
+- Exploring Linux, open-source software, and AI/ML.
+
+**Tech stack:** Python · C · C++ · Git · GitHub · Linux
+
+Outside coding, I'm into anime, manga, and gaming.
+
+**GitHub:** [lakshyadeep-glitch](https://github.com/lakshyadeep-glitch)  
+**X:** [@notAetheri0n](https://x.com/notAetheri0n)
