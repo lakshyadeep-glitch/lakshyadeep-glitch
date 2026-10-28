@@ -14,3 +14,4 @@ Outside coding, I'm into anime, manga, and gaming.
 
 **GitHub:** [lakshyadeep-glitch](https://github.com/lakshyadeep-glitch)  
 **X:** [@notAetheri0n](https://x.com/notAetheri0n)
+**LeetCode:** [@Lakshya](https://leetcode.com/u/notaetherion/)
